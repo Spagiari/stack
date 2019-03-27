@@ -1,0 +1,26 @@
+{
+  "name": "stack",
+  "version": "1.0.0",
+  "description": "Stack data struct for java script",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Spagiari/stack.git"
+  },
+  "keywords": [
+    "stack",
+    "lifo"
+  ],
+  "author": "Eduardo Spagiari",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Spagiari/stack/issues"
+  },
+  "homepage": "https://github.com/Spagiari/stack#readme",
+  "dependencies": {
+    "string-builder": "^0.1.6"
+  }
+}
